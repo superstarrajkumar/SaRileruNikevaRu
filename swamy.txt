@@ -1,0 +1,6 @@
+rajkumar
+swamy
+git status
+dit commands
+git logs
+git add
