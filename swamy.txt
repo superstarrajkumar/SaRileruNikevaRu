@@ -1,6 +1,17 @@
-rajkumar
-swamy
-git status
-dit commands
-git logs
-git add
+kjasjsdkjrajkumar
+kjasjwamy
+kjasjit status
+kjasjit commands
+kjasjit logs
+kjasjit add
+kjasj
+kjasj
+kjasj
+read -r -p 'Commit message: ' dec # prompt user for commit message
+git add .
+git add -u
+git commit -m "$raja"
+pit push origin maser
+
+
+
