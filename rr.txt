@@ -1,1 +1,11 @@
-rrrrrrrr
+#!/bin/bash
+
+FILES=/Users/raja/dev/*
+
+for file in $FILES
+
+do 
+
+    echo $(basename $file)
+
+    done
